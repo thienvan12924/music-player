@@ -120,7 +120,7 @@ $(function()
 		name: ")",
 		url: "Musics/",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-		    ];
+	},];
 	
 	function shuffle(a) {
 		var j, x, i;
